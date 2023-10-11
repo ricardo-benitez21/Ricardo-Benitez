@@ -1,4 +1,4 @@
-# Hello! My name is Ricardo, but you can call me Ricky 🙂
+# Hello! My name is Ricardo! (Or Ricky)
 ## 👇 Who I Am 👇
 My name is Ricardo Benitez, but I go by Ricky. I am a "noob" in the data science world. I am currently enrolled in the data science program at Codeup. I have no doubt, with the help of my instuctors, that I will be a proficient data scientist once I graduate from Codeup.
 
